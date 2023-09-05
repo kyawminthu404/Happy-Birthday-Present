@@ -1,0 +1,77 @@
+
+
+
+git --version
+
+git confi --globle user.name "Kyaw Kyaw"
+
+git (version control system)
+
+1,10
+
+
+branch(desgin)
+commites
+
+github
+    repo(branchs) ecommerce
+
+git config --global user.name "Kyaw Min Thu"
+git config --global user.name
+
+git config --global user.email "thuk36860@gmail.com"
+git config --global user.email
+
+commit-(
+date,time,author,email,id,title)
+
+cd ecommmerce
+git init - (git ko sa pi kyw nyr)
+git status
+( red -> git add .)
+( green -> git commit -m "firstCommit" )
+( nothing to .. )
+
+git log 
+
+git checkout (fill id)
+
+git checkout master
+
+branch (default - master)
+
+git branch
+
+git branch "desgin"
+
+git checkout desgin
+
+repo (github)
+      (branchs)
+
+remote (repo)name -> link
+
+git remote
+
+git remote add name (link)
+
+git status( be nothing to commit)
+
+git push -u remote name / branch name
+
+git checkout contract
+git pull (take new commits)
+
+git merge 
+
+git clone (link)
+
+git branch -d master (delete commend)
+
+git remote remove (remote name)
+
+git reset --hard HEAD~1(Delete Commit)
+
+Commit/ Create/ List/ Delete
+Branch/ Create/ List/ Delete
+remote/ Add/ List/ Delete
